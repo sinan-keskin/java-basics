@@ -1,4 +1,3 @@
-```markdown
 # ☕ java-basics
 
 Temel **Java** örnekleri ve konseptleri 📚  
